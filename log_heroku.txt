@@ -1,0 +1,13 @@
+2020-04-14T03:15:21.708439+00:00 app[api]: Release v2 created by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:15:21.604483+00:00 app[api]: Release v1 created by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:15:21.604483+00:00 app[api]: Initial release by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:15:21.708439+00:00 app[api]: Enable Logplex by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:15:54.000000+00:00 app[api]: Build started by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:16:22.431097+00:00 app[api]: Deploy 7dbbea6d by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:16:22.452663+00:00 app[api]: Scaled to web@1:Free by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:16:22.431097+00:00 app[api]: Release v3 created by user lucas.nonato@aluno.faculdadeimpacta.com.br
+2020-04-14T03:16:27.583474+00:00 app[web.1]: * Running on http://0.0.0.0:45443/ (Press CTRL+C to quit)
+2020-04-14T03:16:28.088519+00:00 heroku[web.1]: State changed from starting to up
+2020-04-14T03:16:31.000000+00:00 app[api]: Build succeeded
+2020-04-14T03:17:10.426959+00:00 heroku[router]: at=info method=GET path="/" host=fast-wildwood-44451.herokuapp.com request_id=377b7b81-b3a9-4229-a31a-24d962577611 fwd="189.18.107.179" dyno=web.1 connect=0ms service=3ms status=200 bytes=631 protocol=https
+2020-04-14T03:17:10.423860+00:00 app[web.1]: 10.109.166.130 - - [14/Apr/2020 03:17:10] "GET / HTTP/1.1" 200 -
